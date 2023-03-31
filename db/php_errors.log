@@ -1,0 +1,5 @@
+[06-Mar-2023 05:52:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı.
+ in C:\inetpub\wwwroot\testcase\db\data.php on line 3
+[06-Mar-2023 06:21:23 UTC] PHP Notice:  Undefined variable: ip in C:\inetpub\wwwroot\testcase\db\data.php on line 9
+[06-Mar-2023 06:21:23 UTC] PHP Notice:  Undefined variable: user in C:\inetpub\wwwroot\testcase\db\data.php on line 9
+[06-Mar-2023 06:21:23 UTC] PHP Notice:  Undefined variable: pass in C:\inetpub\wwwroot\testcase\db\data.php on line 9
